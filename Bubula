@@ -1,0 +1,327 @@
+"id": "8459eb1e-6a18-4ba2-b2e2-d27f4a1826b2",
+   "metadata": {},
+   "source": [
+    "# Задание 1 - Перевод чисел из одной системы счисления в другую"
+    "## Задание 1 - Перевод чисел из одной системы счисления в другую"
+   ]
+  },
+  {
+@@ -48,9 +48,11 @@
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a6435d1e",
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d7ea4f98",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+@@ -133,28 +135,12 @@
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6a4fb2b3-e65c-4fb3-9e01-52d9c5c555ea",
+   "metadata": {},
+   "source": [
+    "№7 $$25_{10}\\rightarrow x_{10}$$"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "edc0b0c0-25dd-45d6-9c33-9c7aefe2fdb4",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d726e435-e248-4e2d-8e2e-8b620ea2f3b9",
+   "metadata": {},
+   "source": [
+    "№8 $$183_{10}\\rightarrow x_{16}$$"
+    "№7 $$183_{10}\\rightarrow x_{16}$$"
+   ]
+  },
+  {
+@@ -170,7 +156,7 @@
+   "id": "2d8efd90-c33b-418d-bc43-b74cf52b63e1",
+   "metadata": {},
+   "source": [
+    "№9 $$64_{10}\\rightarrow x_{8}$$"
+    "№8 $$64_{10}\\rightarrow x_{8}$$"
+   ]
+  },
+  {
+@@ -186,7 +172,7 @@
+   "id": "0b2f89d5-0c6f-4759-af33-d9ed8db07c72",
+   "metadata": {},
+   "source": [
+    "№10 $$1F_{16}\\rightarrow x_{2}$$"
+    "№9 $$1F_{16}\\rightarrow x_{2}$$"
+   ]
+  },
+  {
+@@ -202,7 +188,7 @@
+   "id": "81d469ff-ef5c-4886-adc4-5712f3e63c59",
+   "metadata": {},
+   "source": [
+    "№11 $$53_{16} \\rightarrow x_{8}$$"
+    "№10 $$53_{16} \\rightarrow x_{8}$$"
+   ]
+  },
+  {
+@@ -213,22 +199,6 @@
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6ce6d0e5-4a26-414c-8924-f86f1ede9893",
+   "metadata": {},
+   "source": [
+    "№12 $$A4_{16}\\rightarrow x_{10}$$"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "bd4ac497-9c55-4e48-8916-4cba7945856b",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "660959b3-1921-46d6-b767-611df8678bcb",
+@@ -242,7 +212,7 @@
+   "id": "213927ff-4c8d-403b-b07e-3638a17656b6",
+   "metadata": {},
+   "source": [
+    "№13 $$1101_{2} * 1010_{2} = x_{2}$$"
+    "№11 $$1101_{2} * 1010_{2} = x_{2}$$"
+   ]
+  },
+  {
+@@ -258,7 +228,7 @@
+   "id": "8def0118-4592-47d5-a7d3-e1636dc0f3ad",
+   "metadata": {},
+   "source": [
+    "№14 $$1110_{16} - 1011_{16} = x_{2}$$"
+    "№12 $$1110_{16} - 1011_{16} = x_{2}$$"
+   ]
+  },
+  {
+@@ -274,7 +244,7 @@
+   "id": "a15637b6-a9cd-4ff7-a3a7-18b834acd296",
+   "metadata": {},
+   "source": [
+    "№15 $$1010_2 * 10_2 = x_2$$"
+    "№13 $$1010_2 * 10_2 = x_2$$"
+   ]
+  },
+  {
+@@ -290,7 +260,7 @@
+   "id": "de58424e-1f62-4069-9e05-3d3b93947500",
+   "metadata": {},
+   "source": [
+    "№16 $$1010_{2} : 10_{2} = x_{2}$$"
+    "№14 $$1010_{2} : 10_{2} = x_{2}$$"
+   ]
+  },
+  {
+@@ -306,7 +276,7 @@
+   "id": "afe6ffc5-e815-4038-92da-44ed46d078b9",
+   "metadata": {},
+   "source": [
+    "№17 $$65_{8} + 15_{8} = x_{8}$$"
+    "№15 $$65_{8} + 15_{8} = x_{8}$$"
+   ]
+  },
+  {
+@@ -322,7 +292,7 @@
+   "id": "24d5d0bb-1afb-4bec-8979-009ca7fd2767",
+   "metadata": {},
+   "source": [
+    "№18 $$30_8 - 42_{8} = x_{8}$$"
+    "№16 $$30_8 - 42_{8} = x_{8}$$"
+   ]
+  },
+  {
+@@ -338,7 +308,7 @@
+   "id": "9c0e64d2-4d10-4545-80dc-d8aa9dce6451",
+   "metadata": {},
+   "source": [
+    "№19 $$15_8 * 7_{8} = x_8$$"
+    "№17 $$15_8 * 7_{8} = x_8$$"
+   ]
+  },
+  {
+@@ -354,7 +324,7 @@
+   "id": "8ac55fb7-cc08-4c16-afdd-2fe9c4854109",
+   "metadata": {},
+   "source": [
+    "№20 $$26_{8} : 2_{8} = x_8$$"
+    "№18 $$26_{8} : 2_{8} = x_8$$"
+   ]
+  },
+  {
+@@ -370,7 +340,7 @@
+   "id": "0244ce64-a162-4608-b2a4-0ad6a9ac553d",
+   "metadata": {},
+   "source": [
+    "№21 $$5F_{16} + D_{16} = x_{16}$$"
+    "№19 $$5F_{16} + D_{16} = x_{16}$$"
+   ]
+  },
+  {
+@@ -386,7 +356,7 @@
+   "id": "60d96a5a-0793-4e39-a1ca-66da5d1d1df4",
+   "metadata": {},
+   "source": [
+    "№22 $$80_{16} - 34_{16} = x_{16}$$"
+    "№20 $$80_{16} - 34_{16} = x_{16}$$"
+   ]
+  },
+  {
+@@ -397,134 +367,6 @@
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "cd6771cb-52c4-49bf-9c31-590e52889eac",
+   "metadata": {},
+   "source": [
+    "№23 $$50_{16} * DA_{16} = x_{16}$$"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e84f1c4b-7caa-46d9-af09-6b702a52a038",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e48f6f6f-6d51-4520-b7a6-9ea28c11e087",
+   "metadata": {},
+   "source": [
+    "№24 $$FA_{16} : 5_{16} = x_{16}$$"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "70cef782-4602-4113-89e3-22dac9026c9f",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "96cd2fb2-9a56-4124-98d6-72cc5799233d",
+   "metadata": {},
+   "source": [
+    "№25 $$1011_{2} + 12_{8} = x_{10}$$"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e81fd6a2-3066-4d15-afad-3814abe9c140",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "2eb0e91d-90cc-4047-9ed8-b8ec1077cbae",
+   "metadata": {},
+   "source": [
+    "№26 $$A7_{17} - 40_{6} = x_{16}$$"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "252b68be-665b-48e0-a400-f31efe4d0eee",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f4841286-4bdf-42d5-8bdb-5bee1fe7337e",
+   "metadata": {},
+   "source": [
+    "№27 $$74_{8} * 16_{10} = x_{16}$$"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "124b5c63-18c4-448b-8381-cc93ece47a5e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "2b7b57c1-8e34-4433-84a3-efee301dad9c",
+   "metadata": {},
+   "source": [
+    "№28 $$1111101_{2} : 5_{16} = x_{10}$$"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d31f7bd3-58c7-4b1a-9c70-89603b8b4ceb",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8dc6a26c-a7be-4d36-826b-272462d04992",
+   "metadata": {},
+   "source": [
+    "№29 $$175_{13} * 35_{32} = x_{2}$$"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b6b48a4b-4396-4d57-9d28-8aac3250727c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b7ceff38-279c-4abf-9b54-20a54f2e9d02",
+   "metadata": {},
+   "source": [
+    "№30 $$1765_{33} + 12_{6} = x_{17}$$"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e64c4b5b-c2f2-49ed-98d5-3d2bbfeccdcd",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ec443828-abad-49e9-909c-a4cd1fb562c9",
